@@ -1,8 +1,14 @@
 # Atdev
-for this i have use mysql data base in which their is student table
+For this, I have use mysql database in which there is student table
 
-their are 4 methodes in which i have done curd oprations 
+also added mysql  database
+
+There are 4 methods in which i have done curd operations. 
+
 1 for post mapping use link (http://localhost:8080/v1/student)
+
 2 for put mapping use (http://localhost:8080/v1/student/1)
+
 3 for delete mapping use (http://localhost:8080/v1/student/1)
+
 4 for get mapping use (http://localhost:8080/v1/student/1)
